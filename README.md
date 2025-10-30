@@ -1,4 +1,5 @@
-🧾 **Coca-Cola Retailer Sales Analysis Dashboard**
+#  <img width="268" height="148" alt="image" src="https://github.com/user-attachments/assets/52863667-04a6-4a38-93f3-d006ac5d5b06" />
+#  🧾 **Retailer Sales Analysis Dashboard**
 
 ---
 
@@ -45,7 +46,7 @@ It further explores **sales performance by beverage brand** between two years an
 
 ### **🧭 How to Use Dashboard**
 
-1. Open the `Retailer Project.xlsx` in Excel (Office 365 or Excel 2019+ recommended).
+1. Download `Retailer Project.xlsx` and open in Excel (Office 365 or Excel 2019+ recommended).
 2. Use slicers to filter by **year (Invoice Date)** and **region**.
 3. Explore KPI visuals to analyse sales trends and profitability.
 4. Compare year-on-year performance and brand contributions interactively.
