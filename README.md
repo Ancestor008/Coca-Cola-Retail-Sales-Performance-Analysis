@@ -445,7 +445,7 @@ For behavioural researchers and analysts, this dataset is a reminder that **comm
 
 I am a **Behavioral Researcher** focused on judgment and decision-making under uncertainty, user psychology, and the cognitive and structural forces that shape human behaviour in digital and commercial environments.
 
-My work spans **experimental behavioral science**, **product analytics**, and **applied UX research** — translating evidence-based research thinking into insights that inform product design, channel strategy, and human-centred decision systems.
+My work spans **behavioral science**, **product analytics**, and **applied UX research** — translating evidence-based research thinking into insights that inform product design, channel strategy, and human-centred decision systems.
 
 ---
 
