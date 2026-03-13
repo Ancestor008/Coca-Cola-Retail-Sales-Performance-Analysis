@@ -1,6 +1,6 @@
 # 🧾 Retailer Sales Analysis Dashboard: A Behavioural Investigation of Consumer Demand, Brand Preference, and Seasonal Decision Patterns
 
-> *"Markets are not driven by numbers alone — they are driven by the decisions of millions of people responding to brands, environments, and moments."*
+> *"Markets are not driven by numbers alone, but also by the decisions of millions of people responding to brands, environments, and moments."*
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 📌 Executive Summary
 
-This project investigates the commercial and behavioural dynamics underlying **9,648 Coca-Cola retailer transactions** across the United States, spanning 2022–2023. Using an Excel-based interactive dashboard, it examines how consumer purchasing behaviour — shaped by brand loyalty, seasonal demand cycles, and retailer channel concentration — translates into measurable sales and profitability outcomes.
+This project investigates the commercial and behavioural dynamics underlying **9,648 Coca-Cola retailer transactions** across the United States, spanning 2022–2023. Using an Excel-based interactive dashboard, it examines how consumer purchasing behaviour, shaped by brand loyalty, seasonal demand cycles, and retailer channel concentration, translates into measurable sales and profitability outcomes.
 
 The core behavioural question is: **What patterns of consumer preference, seasonal demand, and retailer dependence drive revenue concentration in a large-scale retail distribution network?**
 
@@ -69,7 +69,7 @@ These findings have direct implications for **channel strategy**, **portfolio di
 
 ### Consumer Behaviour as the Engine of Commercial Outcomes
 
-Retail sales data is not merely a ledger of transactions — it is a compressed record of millions of individual consumer decisions. Each unit sold represents a choice made under conditions of habit, environmental cue, brand perception, and situational context. To interpret retail performance analytically without reference to the behavioural forces that generate it is to misread the signal.
+Retail sales data is not merely a ledger of transactions, but a compressed record of millions of individual consumer decisions. Each unit sold represents a choice made under conditions of habit, environmental cue, brand perception, and situational context. To interpret retail performance analytically without reference to the behavioural forces that generate it is to misread the signal.
 
 The field of **behavioural economics** offers a powerful lens for interpreting commercial data. Rather than assuming that consumers behave as rational utility-maximisers, it documents the systematic ways in which cognitive shortcuts, emotional responses, and environmental architecture shape purchase decisions (Thaler & Sunstein, 2008).
 
@@ -79,11 +79,11 @@ The field of **behavioural economics** offers a powerful lens for interpreting c
 
 ### Brand Loyalty, Familiarity, and the Mere Exposure Effect
 
-One of the most reliable findings in consumer psychology is that **familiarity breeds preference**. Zajonc's (1968) mere exposure effect demonstrates that repeated exposure to a stimulus — a brand name, a logo, a product — increases liking for that stimulus, independent of product quality. This helps explain why flagship brands like Coca-Cola and Dasani consistently capture the largest shares of consumer wallet even in highly competitive beverage markets.
+One of the most reliable findings in consumer psychology is that **familiarity breeds preference**. Zajonc's (1968) mere exposure effect demonstrates that repeated exposure to a stimulus, such as a brand name, a logo, a product, increases liking for that stimulus, independent of product quality. This helps explain why flagship brands like Coca-Cola and Dasani consistently capture the largest shares of consumer wallet even in highly competitive beverage markets.
 
 > Zajonc, R. B. (1968). Attitudinal effects of mere exposure. *Journal of Personality and Social Psychology, 9*(2, Pt.2), 1–27. [https://doi.org/10.1037/h0025848](https://doi.org/10.1037/h0025848)
 
-Brand loyalty in FMCG (fast-moving consumer goods) markets is further reinforced by **habit formation** — the neurological process by which repeated choices become automatic and resistant to disruption (Wood & Neal, 2009). Consumers who habitually purchase Coca-Cola products are less likely to engage in deliberate comparison shopping, producing sticky demand that underpins consistent revenue even across changing economic conditions.
+Brand loyalty in FMCG (fast-moving consumer goods) markets is further reinforced by **habit formation**, which is the neurological process by which repeated choices become automatic and resistant to disruption (Wood & Neal, 2009). Consumers who habitually purchase Coca-Cola products are less likely to engage in deliberate comparison shopping, producing sticky demand that underpins consistent revenue even across changing economic conditions.
 
 > Wood, W., & Neal, D. T. (2009). The habitual consumer. *Journal of Consumer Psychology, 19*(4), 579–592. [https://doi.org/10.1016/j.jcps.2009.08.003](https://doi.org/10.1016/j.jcps.2009.08.003)
 
@@ -91,17 +91,17 @@ Brand loyalty in FMCG (fast-moving consumer goods) markets is further reinforced
 
 ### Seasonal Demand and Situated Consumer Choice
 
-Consumer demand for beverages is not uniform across time — it is deeply **situated**, responding to ambient temperature, social occasion, and seasonal norms. Hirschman and Holbrook (1982) documented the role of **hedonic consumption** — the experiential, emotion-driven dimension of purchasing — in shaping demand patterns for products associated with pleasure and social context.
+Consumer demand for beverages is not uniform across time, but deeply **situated**, responding to ambient temperature, social occasion, and seasonal norms. Hirschman and Holbrook (1982) documented the role of **hedonic consumption**,which is the experiential, emotion-driven dimension of purchasing, which shapes demand patterns for products associated with pleasure and social context.
 
 > Hirschman, E. C., & Holbrook, M. B. (1982). Hedonic consumption: Emerging concepts, methods and propositions. *Journal of Marketing, 46*(3), 92–101. [https://doi.org/10.1177/002224298204600314](https://doi.org/10.1177/002224298204600314)
 
-Cold beverages are a canonical hedonic product: demand peaks in warmer months (Q2–Q3) driven by temperature, outdoor activity, and social consumption occasions — patterns visible in this dataset's quarterly revenue trajectory.
+Cold beverages are a canonical hedonic product: demand peaks in warmer months (Q2–Q3) driven by temperature, outdoor activity, and social consumption occasions, patterns which are visible in this dataset's quarterly revenue trajectory.
 
 ---
 
 ### Retailer Concentration and Channel Dependency
 
-The behavioural economics of **B2B distribution** is less studied than B2C consumer psychology, but concentration risk in retail channels follows analogous dynamics. When a disproportionate share of revenue flows through a small number of retail partners, the organisation faces a **structural vulnerability** analogous to the over-reliance cognitive bias — where decision-makers become over-dependent on a small number of trusted signals (Kahneman, 2011).
+The behavioural economics of **B2B distribution** is less studied than B2C consumer psychology, but concentration risk in retail channels follows analogous dynamics. When a disproportionate share of revenue flows through a small number of retail partners, the organisation faces a **structural vulnerability** analogous to the over-reliance cognitive bias, where decision-makers become over-dependent on a small number of trusted signals (Kahneman, 2011).
 
 > Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
 
@@ -111,7 +111,7 @@ The 80/20 principle (Pareto, 1896, as applied in business strategy) predicts tha
 
 ### Regional Distribution and Geographic Demand Heterogeneity
 
-Consumer demand is not uniformly distributed across geography. **Population density**, **retail infrastructure maturity**, **regional income levels**, and **culturally specific consumption norms** all shape the geographic distribution of sales. The concentration of revenue in New York, California, Florida, and Texas — states with the largest populations and most mature retail ecosystems — reflects both demographic scale and the strategic prioritisation of high-density markets.
+Consumer demand is not uniformly distributed across geography. **Population density**, **retail infrastructure maturity**, **regional income levels**, and **culturally specific consumption norms** all shape the geographic distribution of sales. The concentration of revenue in New York, California, Florida, and Texas, states with the largest populations and most mature retail ecosystems, reflects both demographic scale and the strategic prioritisation of high-density markets.
 
 Arnett et al. (2003) document how brand relationship quality varies by regional context, suggesting that geographic segmentation is not only a logistics question but a behavioural one.
 
@@ -129,7 +129,7 @@ Despite generating substantial revenue, many retail distribution networks operat
 
 This matters because:
 - **Unexplained growth** is commercially dangerous: without understanding what is driving performance, organisations cannot reliably sustain it.
-- **Concentration risk** — whether in brands, retailers, or regions — creates fragility that only becomes visible when a relationship or trend breaks.
+- **Concentration risk**, whether in brands, retailers, or regions, creates fragility that only becomes visible when a relationship or trend breaks.
 - **Seasonal demand patterns** represent either a planning opportunity or a planning failure, depending on whether the organisation anticipates them or responds to them reactively.
 
 Understanding these dynamics through a behavioural and analytical lens converts raw commercial data into **strategic intelligence**.
@@ -167,7 +167,7 @@ Understanding these dynamics through a behavioural and analytical lens converts 
 
 ### Research Design
 
-This project employs an **observational, exploratory analytical design** — appropriate when the goal is to describe and understand patterns in existing commercial data rather than to manipulate variables experimentally. The analysis combines **descriptive statistics**, **temporal trend analysis**, **categorical segmentation**, and **KPI modelling** to extract behavioural and strategic insight from transactional records.
+This project employs an **observational, exploratory analytical design**, which is appropriate when the goal is to describe and understand patterns in existing commercial data rather than to manipulate variables experimentally. The analysis combines **descriptive statistics**, **temporal trend analysis**, **categorical segmentation**, and **KPI modelling** to extract behavioural and strategic insight from transactional records.
 
 The analytical posture is fundamentally interpretive: the goal is not merely to report what the numbers are, but to explain *what human and structural behaviours generated them* and *what they imply for future decision-making*.
 
@@ -253,9 +253,9 @@ This analysis uses **aggregated commercial transaction data** with no personally
 | Operating Profit Margin | 40.0% | 43.0% | **+3 pp** |
 | Average Price per Unit | — | — | — |
 
-A **296% increase in total sales** between 2022 and 2023 is extraordinary by any commercial benchmark. This growth trajectory suggests one or more of the following: successful retail network expansion, increased consumer demand, improved distribution coverage, or more effective brand activation — likely a combination.
+A **296% increase in total sales** between 2022 and 2023 is extraordinary by any commercial benchmark. This growth trajectory suggests one or more of the following: successful retail network expansion, increased consumer demand, improved distribution coverage, or more effective brand activation, or likely a combination.
 
-The simultaneous **improvement in operating margin** (40% → 43%) indicates that growth was not purchased at the cost of profitability — a key indicator of **sustainable commercial performance** rather than volume-driven dilution.
+The simultaneous **improvement in operating margin** (40% → 43%) indicates that growth was not purchased at the cost of profitability, which is a key indicator of **sustainable commercial performance** rather than volume-driven dilution.
 
 ---
 
@@ -270,7 +270,7 @@ The simultaneous **improvement in operating margin** (40% → 43%) indicates tha
 | FizzyCo | $2.26M (from $161K in 2022) | — |
 
 - **Coca-Cola, Dasani Water, and Diet Coke collectively account for approximately 60% of total 2023 revenue**, confirming H₁ and reflecting the dominance of high-familiarity, habitually purchased brands.
-- **FizzyCo** grew from $161K (2022) to $2.26M (2023) — a **1,303% increase** — the fastest-growing brand in the portfolio. This likely reflects new retail partnerships, expanded distribution, or a successful launch campaign.
+- **FizzyCo** grew from $161K (2022) to $2.26M (2023)( **1,303% increase**), which is the fastest-growing brand in the portfolio. This likely reflects new retail partnerships, expanded distribution, or a successful launch campaign.
 
 ---
 
