@@ -40,7 +40,8 @@ These findings have direct implications for **channel strategy**, **portfolio di
 
 ### Dashboard Screenshot
 
-<img width="1147" height="732" alt="Retailer dashboard " src="https://github.com/user-attachments/assets/f89824b4-8ca6-4df3-9368-032e33954d3c" />
+<img width="1147" height="732" alt="Retailer dashboard " src="https://github.com/user-attachments/assets/1f810505-822b-454d-a96f-032a5af6bad6" />
+
 
 
 ---
@@ -414,7 +415,8 @@ For behavioural researchers and analysts, this dataset is a reminder that **comm
 5. **Navigate the brand and retailer charts** to compare year-on-year performance and identify variance drivers.
 6. **Review the quarterly trend chart** to understand seasonal demand patterns and margin trajectory.
 
-![Retail Vid](https://github.com/user-attachments/assets/d0e3ac19-bcc8-41f3-8777-fee74795c3b8)
+![Retail Vid](https://github.com/user-attachments/assets/872f155a-4cdc-450c-81e6-71feaefa66dd)
+
 
 
 ---
