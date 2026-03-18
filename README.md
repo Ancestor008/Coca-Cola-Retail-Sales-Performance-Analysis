@@ -445,9 +445,7 @@ For behavioural researchers and analysts, this dataset is a reminder that **comm
 
 ## 🤝 Connect With Me
 
-I am a **Behavioral Researcher** focused on judgment and decision-making under uncertainty, user psychology, and the cognitive and structural forces that shape human behaviour in digital and commercial environments.
-
-My work spans **behavioral science**, **product analytics**, and **applied UX research** — translating evidence-based research thinking into insights that inform product design, channel strategy, and human-centred decision systems.
+I'm a **behavioral researcher** who seeks to understand how people make decisions under uncertainty. My psychology training and research background mean I approach problems differently: I design analyses that reveal why users behave as they do, build frameworks that account for actual human judgment, and generate insights that shift how teams understand their users.
 
 ---
 
@@ -455,8 +453,8 @@ My work spans **behavioral science**, **product analytics**, and **applied UX re
 |---|---|
 | 💼 **LinkedIn** | [linkedin.com/in/oayomide](https://www.linkedin.com/in/oayomide) |
 | 📧 **Email** | [ojoayomide008@gmail.com](mailto:ojoayomide008@gmail.com) |
-| 🎓 **Research Focus** | Judgment & Decision Making · Behavioral Analytics · Consumer Psychology |
-| 📍 **Open to** | UX Research · Experimental Analytics · Product Science · Behavioral Finance |
+| 🎓 **Focus** | User Analytics · Consumer Psychology · Market Analytics · Business Intelligence |
+| 📍 **Open to** | User Research · Market Research · Product Science · Behavioral Finance |
 
 ---
 
