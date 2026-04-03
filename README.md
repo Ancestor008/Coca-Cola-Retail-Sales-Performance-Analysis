@@ -445,7 +445,7 @@ For behavioural researchers and analysts, this dataset is a reminder that **comm
 
 ## 🤝 Connect With Me
 
-I'm a **behavioral researcher** who seeks to understand how people make decisions under uncertainty. My psychology training and research background mean I approach problems differently: I design analyses that reveal why users behave as they do, build frameworks that account for actual human judgment, and generate insights that shift how teams understand their users.
+I'm an **Analytics researcher** who seeks to understand how people make decisions and then builds the data frameworks, statistical models, and strategic recommendations that act on those insights. My psychology training and research background mean I approach problems differently: I design studies that reveal why users behave as they do, analyze behavioral patterns, and translate findings into executive-ready recommendations and intervention strategies that shift how teams understand and act on user behavior.
 
 ---
 
@@ -454,7 +454,7 @@ I'm a **behavioral researcher** who seeks to understand how people make decision
 | 💼 **LinkedIn** | [linkedin.com/in/oayomide](https://www.linkedin.com/in/oayomide) |
 | 📧 **Email** | [ojoayomide008@gmail.com](mailto:ojoayomide008@gmail.com) |
 | 🎓 **Focus** | User Analytics · Consumer Psychology · Market Analytics · Business Intelligence |
-| 📍 **Open to** | User Research · Market Research · Product Science · Behavioral Finance |
+| 📍 **Open to** | User Research · Market Research · Product Science · Behavioral Finance · Consulting |
 
 ---
 
