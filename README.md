@@ -445,7 +445,7 @@ For behavioural researchers and analysts, this dataset is a reminder that **comm
 
 ## 🤝 Connect With Me
 
-I'm an **Analytics researcher** who seeks to understand how people make decisions and then builds the data frameworks, statistical models, and strategic recommendations that act on those insights. My psychology training and research background mean I approach problems differently: I design studies that reveal why users behave as they do, analyze behavioral patterns, and translate findings into executive-ready recommendations and intervention strategies that shift how teams understand and act on user behavior.
+I design research that tells organizations why their users, customers, and employees make the decisions they do, then build the analytical frameworks and statistical models that act on those findings. My training in psychology and behavioral science means I approach business problems differently: I structure investigations around testable hypotheses, apply causal inference and experimental methods, and deliver findings as executive-ready recommendations that shift how organizations understand and respond to human behavior.
 
 ---
 
